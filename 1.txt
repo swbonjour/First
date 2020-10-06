@@ -1,0 +1,11 @@
+#include <iostream>
+##include <cmath>
+using namespace std:
+int main()
+
+{
+    double const a=4.1
+    double const b=2.7
+    doouble int x=1.2;
+    while 
+}
